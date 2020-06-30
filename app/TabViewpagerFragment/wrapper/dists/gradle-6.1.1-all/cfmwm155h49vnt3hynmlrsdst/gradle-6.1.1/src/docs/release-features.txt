@@ -1,0 +1,3 @@
+ - Reusable dependency cache
+ - Configurable compilation order between Groovy/Kotlin/Java/Scala
+ - New sample projects in Gradle's documentation
